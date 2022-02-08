@@ -38,8 +38,8 @@ To get a local copy up and running follow these simple example steps.
 👤 **Author1**
 
 - GitHub: [@dacostajunior21](https://github.com/dacostajunior21)
-- Twitter: [@linqxx](https://twitter.com/twitterhandle)
-- LinkedIn: [dacosta junior](https://linkedin.com/in/linkedinhandle)
+- Twitter: [@_linqxx](https://twitter.com/twitterhandle)
+- LinkedIn: [dacosta junior](https://linkedin.com/in/dacosta-jnr-433107184)
 
 
 ## 🤝 Contributing
